@@ -34,6 +34,7 @@
   <section id="certifications">
     <h2>Certifications</h2>
     <ul class="cert-list" id="certList">
+      
       <!-- Will be injected via JavaScript -->
     </ul>
     <section id="projects">
